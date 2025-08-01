@@ -8,7 +8,7 @@ I'm passionate about coding, learning new technologies, and building awesome pro
 - 💻 I love working with Python, JavaScript, and web technologies.
 - 🌱 Currently learning: DevOps, Cloud Computing, and Machine Learning.
 - 🛠️ Open to collaborating on open source projects and hackathons.
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- 📫 Reach me at: [harshith0929@gmail.com](mailto:harshith0929@gmail.com)
 
 ## 🧰 Tech Stack
 
