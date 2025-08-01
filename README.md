@@ -35,7 +35,6 @@ I'm passionate about coding, learning new technologies, and building awesome pro
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-twitter)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://your-portfolio.com)
 
----
 
 Thanks for visiting my profile! ⭐️  
 Let's connect and build something great together.
