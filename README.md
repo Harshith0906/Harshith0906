@@ -112,16 +112,6 @@ A cutting-edge attendance management solution using **facial recognition** and *
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshith0906&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith0906&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ---
 
 ## 🎯 Current Focus
