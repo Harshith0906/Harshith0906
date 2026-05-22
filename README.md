@@ -112,8 +112,6 @@ A cutting-edge attendance management solution using **facial recognition** and *
 
 ---
 
----
-
 ## 🎯 Current Focus
 
 - 🔬 Advancing **AI/ML applications** in healthcare and legal tech
