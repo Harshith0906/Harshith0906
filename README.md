@@ -69,7 +69,7 @@ A cutting-edge attendance management solution using **facial recognition** and *
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
-| 🫀 **[Heart-Disease-Prediction](https://github.com/Harshith0906/Heart-Disease-Prediction)** | AI-powered ECG image classification for early-stage heart disease detection | CNN, Jupyter Notebook | ✅ Active |
+| 🫀 **[Heart-Disease-Prediction](https://github.com/Harshith0906/Heart-Disease-Prediction)** | AI-powered ECG image classification for early-stage heart disease detection | CNN, ML, Python | ✅ Active |
 | 🌿 **[Plant-Disease-AI](https://github.com/Harshith0906/Plant-Disease-AI)** | CNN-based plant leaf disease classification system | Python, Deep Learning | ✅ Active |
 | 🏠 **[Online-Real-Estate](https://github.com/Harshith0906/Online-real-estate)** | Full-stack real estate platform for property listing & transactions | MERN Stack, CSS | ✅ Active |
 | ✅ **[To-Do-Application](https://github.com/Harshith0906/To-Do-application)** | Full-stack MERN To-Do List Manager | MongoDB, Express, React, Node.js | ✅ Active |
